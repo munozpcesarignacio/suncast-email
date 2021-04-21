@@ -9,9 +9,10 @@ from email.mime.base import MIMEBase  # New line
 from email import encoders  # New line
 
 # User configuration
-sender_email = '' #Correo
+
+sender_email = 'munozpcesarignacio@gmail.com' #Correo
 sender_name = 'Suncast Team'
-password = '' #Contraseña
+password = 'nuevocomienzo2021' #Contraseña
 
 receiver_emails = ['cezarignacio2021@gmail.com']
 receiver_names = ['César Ignacio Munoz Penailillo']
